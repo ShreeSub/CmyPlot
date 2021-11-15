@@ -5,10 +5,10 @@
 |.5| workload is spread over the whole team (so one team member is often Xtimes more productive than the others...|[Issues](https://github.com/ShreeSub/CmyPlot/issues) [commits](https://github.com/ShreeSub/CmyPlot/graphs/contributors)|.5|
 |.5|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing |[ReadMe](https://github.com/ShreeSub/CmyPlot#readme) |.5|
 |.5|the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up  |[Contributing.md](https://github.com/ShreeSub/CmyPlot/blob/main/CONTRIBUTING.md) |.5|
-|.5|Docs: doco generated , format not ugly  |[Docs](https://shreesub.github.io/CmyPlot/index.html)|.5|
+|.5|Docs: doco generated , format not ugly  |[Docs](https://elric97.github.io/CmyPlot/)|.5|
 |.5|evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) |[Issues](https://github.com/ShreeSub/CmyPlot/issues) [commits](https://github.com/ShreeSub/CmyPlot/graphs/contributors)|.5|
 |.5|evidence that the members of the team are working across multiple places in the code base |[Issues](https://github.com/ShreeSub/CmyPlot/issues) [commits](https://github.com/ShreeSub/CmyPlot/graphs/contributors)|.5|
-|1|Docs: what: point descriptions of each class/function (in isolation)  |[Docs](https://shreesub.github.io/CmyPlot/index.html)|1|
+|1|Docs: what: point descriptions of each class/function (in isolation)  |[Docs](https://elric97.github.io/CmyPlot/)|1|
 |.5|Number of commits: by different people  | [commits](https://github.com/ShreeSub/CmyPlot/graphs/contributors)|.5|
 |1|issues are being closed | [closed issues](https://github.com/ShreeSub/CmyPlot/issues?q=is%3Aissue+is%3Aclosed)|1|
 |.5|issues are discussed before they are closed | [evidence 1](https://github.com/ShreeSub/CmyPlot/issues/3) [evidence 2](https://github.com/ShreeSub/CmyPlot/issues/17) . Issues were discussed before assigning as well as closing|.5|
