@@ -4,7 +4,7 @@ Welcoming all CONTRIBUTORS who help in making this repo whole again.
 
 Before you guys begin, please make sure that you abide by the terms of the [CODE_OF_CONDUCT](https://github.com/ShreeSub/CmyPlot/blob/main/CODE_OF_CONDUCT.md).
 
-We have created a [RoadMap](https://github.com/ShreeSub/CmyPlot/projects/1) for easier navigation adn to provide information about the existing issues and lots of todos. Please have  a look for inspiration.
+We have created a [RoadMap](https://github.com/ShreeSub/CmyPlot/projects/1) for easier navigation and to provide information about the existing issues and lots of todos. Please have  a look for inspiration.
 
 This document is a quick guide through for you guys with all the steps from  new Issue creation, forking the repo, creating, reviewing and merging the Pull Requests.
 
@@ -21,6 +21,10 @@ This document is a quick guide through for you guys with all the steps from  new
 
 ### Pull Requests (PR)
 - When done with making your changes, open a [pull request](https://github.com/ShreeSub/CmyPlot/pulls) by clicking on the `New pull request` option.
+- Provide a short description of the changes you have made.
+- Please add comments in your code wherever necessary.
+- If you fixed an existing issue please update the issue as well.
+- Please tag one of the existing contributors for reviewing as well.
 
 ### PR Review
 - Once after submitting a pull request, we will be reviewing it and get back to you on any questions regarding the changes made.
